@@ -15,6 +15,6 @@
 
 4. Hypothesis Testing
 
-Chi Square Test
+5. Chi Square Test
 
 
